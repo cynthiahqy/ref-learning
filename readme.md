@@ -19,4 +19,5 @@
 ## Misc. Notes
 
 - vim-userguide-notes: 
+- bash-notes: collection of notes and shortcuts
 - principles-code-development: no idea where this came from. created 3 Sep, 2017
