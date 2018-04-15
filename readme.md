@@ -1,4 +1,4 @@
-# Attempts at Learning to Code
+# Contents Page
 
 ## Books
 * exploratory_programming: [Exploratory Programming for the Arts and Humanities, Nick Montfort](https://books.google.com.au/books?id=0BXvCwAAQBAJ&source=gbs_book_other_versions)
