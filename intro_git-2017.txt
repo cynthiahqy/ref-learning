@@ -1,0 +1,71 @@
+man xxd
+cp -r -v testing/ testing3/
+testing/ -> testing3
+testing//a.txt -> testing3/a.txt
+
+git uses shalsum hashs
+git uses sha1sum hashs
+rm -r -i -v testing/
+
+https://raamdev.com/2008/howto-install-md5sum-sha1sum-on-mac-os-x/
+
+
+https://public.etherpad-mozilla.org/p/sCx1hFHKsV
+Introduction to Git and GitHub
+Research Platforms
+University of Melbourne
+27 June 2017
+Instructor: Tim Rice (timothy.rice@unimelb.edu.au, @resnomicon on Twitter, cryptarch on Github)
+Helper: Errol Lloyd (@maegul everywhere)
+
+Workshop structure:
+
+1. Background of Git, motivation for using it.
+2. Introduction to GitHub: create acct, create repo, markdown, README, licences and forking, viewing history, branching and merging, "pull requests".
+3. Introduction to Unix Command Line.
+4. A peek under Git's hood: hashes, objects, index, HEAD.
+5. Simple local Git: init, status, add, commit, diff, reset, log.
+6. Working with branches: branch, checkout, merge.
+7. Working with history.
+7. Working with remote repos: clone, remote, fetch, pull, push.
+8. Common workflows: fork & pull, branch & merge.
+9. Advanced configuration: better logging, aliases, ignoring things.
+
+Command Line Cheat Sheet
+
+cd <dir> 
+C
+hange directory
+cd ..
+change directory to the directory above the current directory
+cd
+Go back to the home directory
+
+ls
+list contents of current directory
+
+touch <file name>
+create file
+
+cp <old_file> <file2
+
+References
+
+https://www.youtube.com/watch?v=MJUJ4wbFm_A
+https://git-scm.com/book/en/v2
+http://ohshitgit.com/
+https://en.wikibooks.org/wiki/Git
+http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947#pcbi.1004947.ref011
+https://sethrobertson.github.io/GitBestPractices/
+
+https://github.com/cryptarch/sgit.git
+https://daringfireball.net/projects/markdown/
+
+Github Cheat Sheet for Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+CC Licence: https://raw.githubusercontent.com/resbaz/intro-git-workshop/master/LICENSE.md
+
+http://phdcomics.com/comics/archive/phd101212s.gif
+
+http://swcarpentry.github.io/git-novice/02-setup/
+
