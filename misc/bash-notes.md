@@ -13,6 +13,7 @@ shopt](http://wiki.bash-hackers.org/commands/builtin/shopt)
 
 ### Pattern matching
 http://wiki.bash-hackers.org/syntax/pattern
+http://wiki.bash-hackers.org/syntax/pe#substring_removal
 https://regexone.com/references/python
 
 
